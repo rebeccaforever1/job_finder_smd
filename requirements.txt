@@ -1,0 +1,9 @@
+requests>=2.31
+beautifulsoup4>=4.12
+pyyaml>=6.0
+lxml>=4.9
+flask>=3.0
+python-dotenv>=1.0
+sentence-transformers>=2.2
+python-jobspy>=0.1.0
+ddgs>=0.1
